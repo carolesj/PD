@@ -1,3 +1,4 @@
+//Algoritmo adaptado de https://www.geeksforgeeks.org/dice-throw-dp-30/
 #include <stdlib.h>
 #include <stdio.h>
 #include "dados.h"
